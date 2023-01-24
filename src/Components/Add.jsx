@@ -21,7 +21,7 @@ export default function Add() {
     top: '50%',
     left: '50%',
     transform: 'translate(-50%, -50%)',
-    width: 400,
+    width: 300,
     bgcolor:"background.default",
     color:"text.primary",
     border: '2px solid #000',
